@@ -1,0 +1,1591 @@
+{
+  "pair_0001": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Architecture and Metrics Selection"
+    ]
+  },
+  "pair_0002": {
+    "primary_category": "B",
+    "subcategories": [
+      "Tool Recommendations"
+    ]
+  },
+  "pair_0003": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0004": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0005": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0006": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0007": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0008": {
+    "primary_category": "B",
+    "subcategories": [
+      "Research Direction Guidance"
+    ]
+  },
+  "pair_0009": {
+    "primary_category": "B",
+    "subcategories": [
+      "Research Direction Guidance"
+    ]
+  },
+  "pair_0010": {
+    "primary_category": "B",
+    "subcategories": [
+      "Research Direction Guidance"
+    ]
+  },
+  "pair_0011": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0012": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0013": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0014": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0015": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0016": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0017": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0018": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0019": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0020": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0021": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0022": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0023": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0024": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0025": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0026": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0027": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0028": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0029": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0030": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0031": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0032": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0033": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0034": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0035": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0036": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0037": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0038": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0039": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0040": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0041": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0042": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Architecture and Metrics Selection"
+    ]
+  },
+  "pair_0043": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0044": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0045": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0046": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0047": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0048": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0049": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0050": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0051": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0052": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0053": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0054": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0055": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0056": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0057": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0058": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0059": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0060": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0061": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0062": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0063": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0064": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0065": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0066": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0067": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0068": {
+    "primary_category": "B",
+    "subcategories": [
+      "Learning Resources Recommendations"
+    ]
+  },
+  "pair_0069": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0070": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0071": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0072": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0073": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0074": {
+    "primary_category": "B",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0075": {
+    "primary_category": "B",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0076": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection",
+      "Data Labeling"
+    ]
+  },
+  "pair_0077": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0078": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0079": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0080": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection",
+      "Code Provision"
+    ]
+  },
+  "pair_0081": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Data Collection"
+    ]
+  },
+  "pair_0082": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0083": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0084": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0085": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0086": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0087": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations",
+      "Code Provision"
+    ]
+  },
+  "pair_0088": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0089": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing",
+      "Code Provision"
+    ]
+  },
+  "pair_0090": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0091": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0092": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0093": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0094": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0095": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0096": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0097": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0098": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0099": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0100": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0101": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0102": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0103": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0104": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0105": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0106": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0107": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0108": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training",
+      "Data Processing"
+    ]
+  },
+  "pair_0109": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0110": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0111": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0112": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0113": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0114": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0115": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0116": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0117": {
+    "primary_category": "B",
+    "subcategories": [
+      "Tool Recommendations"
+    ]
+  },
+  "pair_0118": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0119": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0120": {
+    "primary_category": "A",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0121": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0122": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0123": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0124": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0125": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0126": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0127": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0128": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0129": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0130": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0131": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0132": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0133": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0134": {
+    "primary_category": "B",
+    "subcategories": [
+      "Other subcategory"
+    ]
+  },
+  "pair_0135": {
+    "primary_category": "B",
+    "subcategories": [
+      "Other subcategory"
+    ]
+  },
+  "pair_0136": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0137": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0138": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0139": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0140": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0141": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0142": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0143": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0144": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0145": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0146": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0147": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0148": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0149": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0150": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0151": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0152": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0153": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0154": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0155": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0156": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0157": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations",
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0158": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0159": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0160": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0161": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0162": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0163": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0164": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0165": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0166": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0167": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0168": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0169": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0170": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0171": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0172": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0173": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0174": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0175": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0176": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0177": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0178": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision",
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0179": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0180": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0181": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0182": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0183": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0184": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0185": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0186": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0187": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Visualization"
+    ]
+  },
+  "pair_0188": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0189": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0190": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0191": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0192": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0193": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0194": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0195": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0196": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0197": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0198": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0199": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0200": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0201": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0202": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0203": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0204": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0205": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0206": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0207": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0208": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0209": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0210": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0211": {
+    "primary_category": "B",
+    "subcategories": [
+      "Technical Writing Assistance"
+    ]
+  },
+  "pair_0212": {
+    "primary_category": "B",
+    "subcategories": [
+      "Research Direction Guidance"
+    ]
+  },
+  "pair_0213": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Architecture and Metrics Selection"
+    ]
+  },
+  "pair_0214": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0215": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0216": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0217": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0218": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0219": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0220": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0221": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0222": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0223": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0224": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Migration Support"
+    ]
+  },
+  "pair_0225": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Migration Support"
+    ]
+  },
+  "pair_0226": {
+    "primary_category": "A",
+    "subcategories": [
+      "Tool Recommendations"
+    ]
+  },
+  "pair_0227": {
+    "primary_category": "A",
+    "subcategories": [
+      "Tool Recommendations"
+    ]
+  },
+  "pair_0228": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0229": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0230": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Labeling"
+    ]
+  },
+  "pair_0231": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Collection"
+    ]
+  },
+  "pair_0232": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0233": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training",
+      "Model Evaluation"
+    ]
+  },
+  "pair_0234": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0235": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0236": {
+    "primary_category": "A",
+    "subcategories": [
+      "Data Processing"
+    ]
+  },
+  "pair_0237": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0238": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0239": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Migration Support"
+    ]
+  },
+  "pair_0240": {
+    "primary_category": "A",
+    "subcategories": [
+      "Debugging Assistance"
+    ]
+  },
+  "pair_0241": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0242": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0243": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0244": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Evaluation"
+    ]
+  },
+  "pair_0245": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0246": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0247": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0248": {
+    "primary_category": "B",
+    "subcategories": [
+      "Learning Resources Recommendations"
+    ]
+  },
+  "pair_0249": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0250": {
+    "primary_category": "B",
+    "subcategories": [
+      "Learning Resources Recommendations"
+    ]
+  },
+  "pair_0251": {
+    "primary_category": "B",
+    "subcategories": [
+      "Best practice recommendations"
+    ]
+  },
+  "pair_0252": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0253": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0254": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0255": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0256": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0257": {
+    "primary_category": "B",
+    "subcategories": [
+      "Concept/Visualization Explanations"
+    ]
+  },
+  "pair_0258": {
+    "primary_category": "A",
+    "subcategories": [
+      "Model Training"
+    ]
+  },
+  "pair_0259": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0260": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0261": {
+    "primary_category": "A",
+    "subcategories": [
+      "Code Provision"
+    ]
+  },
+  "pair_0262": {
+    "primary_category": "B",
+    "subcategories": [
+      "Tool Recommendations",
+      "Best practice recommendations"
+    ]
+  }
+}
